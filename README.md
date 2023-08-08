@@ -1,2 +1,2 @@
-# EarthDataAccess_Import
-Import ICESat files using EarthDataAccess - does this work with IcePyx?
+# Project Repo for ICESat 2023 Hackweek
+
